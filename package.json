@@ -1,5 +1,6 @@
 {
-  "name": "pagina",
+  "homepage": "http://esquiafo.github.io/React-API",
+  "name": "React-API",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
