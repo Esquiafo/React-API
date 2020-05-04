@@ -13,7 +13,7 @@ const Home = () =>{
                 
                 </div>
                 <hi>Countries data</hi>
-                <Link to='/mage'>See countries</Link>
+                <Link to='/countries'>See countries</Link>
              </header>
             </div>
         );
